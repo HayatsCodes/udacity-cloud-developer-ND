@@ -1,1 +1,1 @@
-# Udacity Cloud Developer/Engineer Nanodegree Projects
+# Udacity Cloud Developer Nanodegree Projects
